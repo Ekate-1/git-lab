@@ -1,0 +1,5 @@
+start
+*.o
+*.exe
+build/
+.DS_Store
